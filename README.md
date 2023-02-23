@@ -1,4 +1,4 @@
-# yt
+# PROJECT
 
 ## Project setup
 ```
